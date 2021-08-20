@@ -1,0 +1,28 @@
+body{
+
+	background-color: #E0FFFF;
+	color: #008080;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-family: 'Playfair Display', serif;
+	
+}
+h1{
+	color:	#008080;
+	text-align: center;
+}
+
+h2{
+	color: #00008B;
+}
+p{
+	font-size: 19px;
+	text-align: justify;
+	text-indent: 33px;
+}
+img{
+	width: 60%;
+}
+figure{
+	text-align: center;
+}
