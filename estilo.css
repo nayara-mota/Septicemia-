@@ -15,7 +15,7 @@ h2{
 	color: #00008B;
 }
 p{
-	font-size: 20px;
+	font-size: 19px;
 	text-align: justify;
 	text-indent: 3em;
 }
@@ -25,12 +25,11 @@ img{
 figure{
 	text-align: center;
 }
-
-ul{ font-size: 20px;
+ul{ font-size: 22px;
 	color: #008080;
 
  }
- ol{ font-size: 20px; 
+ ol{ font-size: 22px; 
  color: #008080;}
 
  iframe {text-align: center;}
