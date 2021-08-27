@@ -24,3 +24,12 @@ img{
 figure{
 	text-align: center;
 }
+
+ul{ font-size: 19px;
+	color: #008080;
+
+ }
+ ol{ font-size: 19px; 
+ color: #008080;}
+
+ iframe {text-align: center;}
